@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+}
+
+.container-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.container-title {
+  font-size: 1.5em;
+}
+
+.container-intro {
+  font-size: large;
+}
+
+h1 {
+  text-align: center;
+}
